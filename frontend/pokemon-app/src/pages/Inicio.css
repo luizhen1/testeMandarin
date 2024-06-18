@@ -1,0 +1,48 @@
+/* src/inicio.css */
+
+@keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.05);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .image {
+    width: 500px;
+    height: auto;
+    border: 5px solid #4CAF50; /* Borda ao redor da imagem */
+    border-radius: 10px; /* Cantos arredondados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ao redor da imagem */
+    animation: pulse 2s infinite; /* Aplicação da animação de pulso */
+  }
+  
+  .button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #4CAF50; /* Cor de fundo verde */
+    border: none;
+    border-radius: 5px; /* Cantos arredondados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ao redor do botão */
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s; /* Transição suave para efeitos */
+  }
+  
+  .button:hover {
+    background-color: #45a049; /* Mudança de cor ao passar o mouse */
+    transform: translateY(-2px); /* Efeito de elevação ao passar o mouse */
+  }
+  

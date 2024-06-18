@@ -10,10 +10,12 @@ Certifique-se de ter os seguintes softwares instalados em sua máquina:
 
 Node.js (versão 14.x ou superior)
 npm (geralmente vem junto com o Node.js)
+***
 
 ### 🔧 Instalação
 
-Para clonar o repositório você pode usar o comando: git clone https://github.com/seu-usuario/mandarin-teste.git
+Para clonar o repositório você pode usar o comando:   
+git clone https://github.com/seu-usuario/mandarin-teste.git
 
 Backend:  
 Para iniciar o backend basta entrar na pasta src e rodar o projeto utilizando os seguintes comandos.  

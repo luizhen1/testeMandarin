@@ -20,6 +20,7 @@ git clone https://github.com/luizhen1/testeMandarin
 Backend:  
 Para iniciar o backend basta entrar na pasta src e rodar o projeto utilizando os seguintes comandos.  
 cd src  
+e rodar o comando "npm install -y"  
 node server.js  
 
 OBS: Para rodar a api do backend no insomnia ou no postman você terá que usar o seguinte token de acesso.  
@@ -31,6 +32,7 @@ Value: c4f23e09-2069-45a7-bab2-8e87fa5f3d30
 frontend:  
 Para iniciar o frontend basta entrar na pasta pokemon-app e utilizar os seguintes comandos para rosdar o projeto.  
 cd pokemon-app  
+rodar o comando "npm install -y"  
 npm start   
 
 ## ⚙️ Executando os testes

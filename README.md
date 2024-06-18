@@ -42,8 +42,9 @@ Contendo os pokemons da API informada pela Mandarin e algumas funcionalidades a 
 
 ## 🛠️ Construído com
 
-* [NodeJS](https://nodejs.org/pt) - O framework web usado
-* [ReactJS](https://maven.apache.org/) - Gerente de Dependência
+* [NodeJS](https://nodejs.org/pt) - O runtime JavaScript no lado do servidor.
+* [Express.js](https://expressjs.com/pt-br/) - O framework web usado com Node.js.
+* [ReactJS](https://pt-br.legacy.reactjs.org/) - Biblioteca para construir interfaces de usuário.
 
 
 ## ✒️ Autor

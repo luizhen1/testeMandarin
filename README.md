@@ -37,8 +37,6 @@ Contendo os pokemons da API informada pela Mandarin e algumas funcionalidades a 
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [NodeJS](https://nodejs.org/pt) - O framework web usado
 * [ReactJS](https://maven.apache.org/) - Gerente de Dependência
 

@@ -2,7 +2,8 @@
 
 Este projeto foi desenvolvido como parte do processo seletivo da empresa Mandarin. Consiste em um backend construído com Node.js e um frontend em React.
 
-## 🚀 Começando
+## 🚀 Começando  
+O Projeto está na Branch Master  
 
 ### 📋 Pré-requisitos
 
@@ -15,7 +16,7 @@ npm (geralmente vem junto com o Node.js)
 ### 🔧 Instalação
 
 Para clonar o repositório você pode usar o comando:   
-git clone https://github.com/seu-usuario/mandarin-teste.git
+git clone https://github.com/luizhen1/testeMandarin  
 
 Backend:  
 Para iniciar o backend basta entrar na pasta src e rodar o projeto utilizando os seguintes comandos.  

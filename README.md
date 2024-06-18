@@ -8,7 +8,7 @@ Este projeto foi desenvolvido como parte do processo seletivo da empresa Mandari
 
 Certifique-se de ter os seguintes softwares instalados em sua máquina:
 
-Node.js (versão 14.x ou superior)
+Node.js (versão 14.x ou superior)  
 npm (geralmente vem junto com o Node.js)
 ***
 
@@ -23,6 +23,8 @@ cd src
 node server.js  
 
 OBS: Para rodar a api do backend no insomnia ou no postman você terá que usar o seguinte token de acesso.  
+GET: http://localhost:5000/api/pokemons - Para acessar todos os Pokémons  
+GET: http://localhost:5000/api/pokemons?name=[nomeDoPokemon]  
 Header: apiKey  
 Value: c4f23e09-2069-45a7-bab2-8e87fa5f3d30  
 

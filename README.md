@@ -51,4 +51,4 @@ Contendo os pokemons da API informada pela Mandarin e algumas funcionalidades a 
 * **Luiz Henrique Lima** - *Teste Mandarin* - (https://github.com/luizhen1)
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://github.com/luizhen1) 😊
+⌨️ com ❤️ por [Luiz Henrique](https://github.com/luizhen1) 😊

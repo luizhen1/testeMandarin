@@ -15,19 +15,19 @@ npm (geralmente vem junto com o Node.js)
 
 Para clonar o repositório você pode usar o comando: git clone https://github.com/seu-usuario/mandarin-teste.git
 
-Backend:
-Para iniciar o backend basta entrar na pasta src e rodar o projeto utilizando os seguintes comandos.
-cd src
-node server.js
+Backend:  
+Para iniciar o backend basta entrar na pasta src e rodar o projeto utilizando os seguintes comandos.  
+cd src  
+node server.js  
 
-OBS: Para rodar a api do backend no insomnia ou no postman você terá que usar o seguinte token de acesso.
-Header: apiKey
-Value: c4f23e09-2069-45a7-bab2-8e87fa5f3d30
+OBS: Para rodar a api do backend no insomnia ou no postman você terá que usar o seguinte token de acesso.  
+Header: apiKey  
+Value: c4f23e09-2069-45a7-bab2-8e87fa5f3d30  
 
-frontend:
-Para iniciar o frontend basta entrar na pasta pokemon-app e utilizar os seguintes comandos para rosdar o projeto.
-cd pokemon-app
-npm start 
+frontend:  
+Para iniciar o frontend basta entrar na pasta pokemon-app e utilizar os seguintes comandos para rosdar o projeto.  
+cd pokemon-app  
+npm start   
 
 ## ⚙️ Executando os testes
 

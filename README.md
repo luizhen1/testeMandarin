@@ -1,6 +1,6 @@
 # Teste Mandarin Pokémon
 
-Este projeto foi desenvolvido como parte do processo seletivo da empresa Mandarin. Consiste em um backend construído com Node.js e um frontend em React.
+Este projeto foi desenvolvido como parte do processo seletivo da empresa Mandarin. Consiste em site onde aparecem pokemóns de uma api informada pela empresa, sendo um backend construído com Node.js e um frontend em React.
 
 ## 🚀 Começando  
 O Projeto está na Branch Master  
